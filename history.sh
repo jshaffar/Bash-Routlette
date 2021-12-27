@@ -39,7 +39,9 @@ random_num=$(((($RANDOM % $line_count)) + 1))
 command=$(sed "${random_num}q;d" $file)
 
 echo $command
-#$command uncomment if your not a coward
+$command
+#uncomment if your not a coward
+
 
 
 #$(( $RANDOM % 2 )) == 0 ] && ($command && echo "you win") || echo "You lose"
