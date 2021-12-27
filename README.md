@@ -1,5 +1,5 @@
 # Bash-Routlette
-Chooses random command at your own risk
+Chooses random command at your own risk. You can play thorugh running ./trigger.sh and picking mode, or chosing mode individually.
 Couple Different Modes
 ## custom mode: Chose the command
 You can chose the command that is run. Set a numerator, denominator, and see what fate allows
