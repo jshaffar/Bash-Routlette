@@ -1,0 +1,3 @@
+ls
+echo 2pac alive
+echo cdc cuts covid regulations in half
