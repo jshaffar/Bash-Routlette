@@ -1,6 +1,6 @@
 # Bash-Routlette
-Chooses random command at your own risk. You can play thorugh running ./trigger.sh and picking mode, or chosing mode individually.
-Couple Different Modes
+Chooses random command at your own risk. You can play thorugh running ./trigger.sh and picking mode, or chosing mode individually. In history mode, the command will definitely run, the unceratintly is what command runs. In the other mode, the command has a probability you will give it of running (hence why its called roulette). Good luck!!
+Couple Different Modes Exaplined
 ## custom mode: Chose the command
 You can chose the command that is run. Set a numerator, denominator, and see what fate allows
 ## history mode: Go into history or file
@@ -11,4 +11,4 @@ The command that is run is a fork bomb, otherwise the same as custom mode
 This is probably the safest one to do, as long as all your files are saved
 ## 
 ## death mode (aka avarda_kadarva): Will wipe drive permanently and make unrecoverable
-Obviously don't use this mode unelss your deranged or something. Will call number 5 on this list https://www.techworm.net/2016/10/10-lethal-linux-commands-never-execute.html, and make hard drive permanetly unrecoverable. I have not tested this yet for obvious reasons so it might not work who knows.
+Obviously don't use this mode unelss your deranged or something. Will call number 5 on this list https://www.techworm.net/2016/10/10-lethal-linux-commands-never-execute.html, and make hard drive permanently unrecoverable. I have not tested this yet for obvious reasons so it might not work who knows.
