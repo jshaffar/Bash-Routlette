@@ -1,6 +1,6 @@
 # Bash-Routlette
 Chooses random command at your own risk. You can play thorugh running ./trigger.sh and picking mode, or chosing mode individually. In history mode, the command will definitely run, the unceratintly is what command runs. In the other mode, the command has a probability you will give it of running (hence why its called roulette). Good luck!!
-Couple Different Modes Exaplined
+
 ## custom mode: Chose the command
 You can chose the command that is run. Set a numerator, denominator, and see what fate allows
 ## history mode: Go into history or file
